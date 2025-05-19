@@ -1,4 +1,4 @@
-# Reddit Annotation & Modeling Project (IS 6713)
+# Reddit Annotation & Modeling Project 
 
 This project is part of a graduate machine learning course where I annotate and model Reddit comments from r/sanantonio using NLP techniques.
 
